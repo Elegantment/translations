@@ -223,7 +223,7 @@
 				"fr":"Apprivoisement facile et rapide",
 				"es":"Doma rápida y fácil",
 				"ru":"Быстрое и лёгкое приручение",
-				"zh":"快速/简易驯服"
+				"zh":"快速/容易驯服"
 			},
 			"p":5
 		},
@@ -279,7 +279,7 @@
 				"fr":"Créatures de combat",
 				"es":"Criaturas de combate",
 				"ru":"Боевые существа",
-				"zh":"战斗用"
+				"zh":"战斗宠物"
 			},
 			"p":7
 		},
@@ -374,7 +374,7 @@
 				"it":"Boss",
 				"es":"Jefes",
 				"ru":"Боссы",
-				"zh":"BOSS"
+				"zh":"BOSS生物"
 			},
 			"p":8
 		},
