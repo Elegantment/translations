@@ -9042,19 +9042,19 @@ zh: {
 	new: "新",
 	presets: "预设",
 	breedingDesc: "输入您的宠物目前的进展，以计算何时它将达到每个成熟阶段",
-	secsBetweenHits: null,
-	secsBetweenHitsNote: null,
-	wiki: null,
-	creatureMap: null,
-	resourceMap: null,
-	explorerMap: null,
-	weightReduction: null,
-	hitsUntilFlee: null,
-	tapForMoreInfo: null,
-	addedForAccuracy: null,
-	ratedForWR: null,
+	secsBetweenHits: "射击间隔时间",
+	secsBetweenHitsNote: "一个生物的眩晕会随着时间自然的下降，时间较长的攻击间隔会让眩晕下降的时间更多，从而增加射击的次数，对一些眩晕下降速率较快的生物来说时间间隔会更有意义。一些武器会在数秒内停止眩晕下降因为在命中后数秒内会持续增长眩晕，Dododex也会考虑到这一点。",
+	wiki: "维基",
+	creatureMap: "生物分布图",
+	resourceMap: "资源分布图",
+	explorerMap: "笔记分布图",
+	weightReduction: "负重减免",
+	hitsUntilFlee: "点击量",
+	tapForMoreInfo: "点击获取更多信息",
+	addedForAccuracy: "提高额外的准确度",
+	ratedForWR: "用{0}来评估负重减免",
 	wsps: null,
-	comingSoon: null
+	comingSoon: "即将到来"
 }}
 
 /* Language names should be in native language */
