@@ -9042,19 +9042,19 @@ zh: {
 	new: "新",
 	presets: "预设",
 	breedingDesc: "输入您的宠物目前的进展，以计算何时它将达到每个成熟阶段",
-	secsBetweenHits: null,
-	secsBetweenHitsNote: null,
-	wiki: null,
-	creatureMap: null,
-	resourceMap: null,
-	explorerMap: null,
-	weightReduction: null,
-	hitsUntilFlee: null,
-	tapForMoreInfo: null,
-	addedForAccuracy: null,
+	secsBetweenHits: "间隔点击时间",
+	secsBetweenHitsNote: "间隔点击时间备注",
+	wiki: "维基",
+	creatureMap: "生物分布",
+	resourceMap: "资源分布",
+	explorerMap: "探索者笔记分布",
+	weightReduction: "负重减免",
+	hitsUntilFlee: "点击量",
+	tapForMoreInfo: "点击获取信息",
+	addedForAccuracy: "添加的准确度",
 	ratedForWR: null,
 	wsps: null,
-	comingSoon: null
+	comingSoon: "即将到来"
 }}
 
 /* Language names should be in native language */
